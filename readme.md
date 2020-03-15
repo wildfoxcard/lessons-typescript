@@ -1,6 +1,6 @@
 # Typescript
 
-> This repo is me recording my typescript training from lessons online.
+> This repo is typescript training from lessons online.
 
 ### order
 

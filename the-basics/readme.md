@@ -5,7 +5,7 @@ from youtube video:
 https://www.youtube.com/watch?v=ahCwqrYpIuM
 
 
-### note from video:
+### notes from video:
 
 how to install typescript:
 
