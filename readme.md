@@ -4,5 +4,5 @@
 
 ### order
 
-1. the-basics
-2. beginners-2020
+1. the-basics (Youtube)
+2. beginners-2020 (Youtube)
