@@ -6,3 +6,5 @@
 
 1. the-basics (Youtube)
 2. beginners-2020 (Youtube)
+
+Important note: VSCode is used because of improved auto-complete functionality.

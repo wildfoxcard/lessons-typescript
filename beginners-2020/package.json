@@ -1,0 +1,16 @@
+{
+  "name": "beginners-2020",
+  "version": "1.0.0",
+  "description": "from youtube video:",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc && concurrently  \"tsc -w\" \"lite-server\" "
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^5.1.0",
+    "lite-server": "^2.5.4"
+  }
+}
